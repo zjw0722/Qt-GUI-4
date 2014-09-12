@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/splash">
+        <file alias="kaola">images/splash.png</file>
+        <file>images/Koala.jpg</file>
+    </qresource>
+</RCC>
